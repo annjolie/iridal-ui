@@ -73,22 +73,18 @@ const theme = {
   },
   fonts: {
     abel: 'Abel, sans-serif',
-    monserrat: '"Shadows Into Light" cursive'
+    monserrat: '"Monserrat", sans-serif',
+    lato: '"Lato", sans-serif'
   },
   fontSizes: {
-    xs: '0.75rem',
-    sm: '0.875rem',
-    md: '1rem',
-    lg: '1.125rem',
-    xl: '1.25rem',
-    '2xl': '1.5rem',
-    '3xl': '1.875rem',
-    '4xl': '2.25rem',
-    '5xl': '3rem',
-    '6xl': '3.75rem',
-    '7xl': '4.5rem',
-    '8xl': '6rem',
-    '9xl': '8rem'
+    xsmall: '0.75rem',
+    small: '0.875rem',
+    medium: '1rem',
+    large: '1.125rem',
+    larger: '2rem',
+    big: '4rem',
+    bigger: '6rem',
+    higher: '8rem'
   },
   fontWeights: {
     hairline: 100,
