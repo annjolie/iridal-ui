@@ -1,7 +1,7 @@
 import light from './light';
 
 const untypedThemes = {
-  light,
+  light
 };
 
 export type Theme = typeof light;

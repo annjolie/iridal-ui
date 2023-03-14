@@ -1,18 +1,13 @@
 @font-face {
-  font-family: 'Abel';
+  font-family: Abel;
   font-style: normal;
   font-weight: 400;
-  src: local(''),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url('../assets/fonts/Abel-Regular.ttf') format('ttf');
-  font-display: swap;
+  src: url('../../public/assets/fonts/Abel-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: Monserrat;
+  font-style: normal;
+  font-weight: 400;
+  src: url('../../public/assets/fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
 }
 
-@font-face {
-  font-family: 'Shadows Into Light';
-  font-style: normal;
-  font-weight: 400;
-  src: local(''),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url('../assets/fonts/ShadowsIntoLight-Regular.ttf') format('ttf');
-}

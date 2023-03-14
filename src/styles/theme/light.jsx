@@ -72,8 +72,8 @@ const theme = {
     }
   },
   fonts: {
-    shadow: 'Shadow Into Light, cursive',
-    abel: 'Abel, sans-serif'
+    abel: 'Abel, sans-serif',
+    monserrat: '"Shadows Into Light" cursive'
   },
   fontSizes: {
     xs: '0.75rem',
